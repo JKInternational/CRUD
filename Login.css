@@ -1,0 +1,22 @@
+.Login {
+  max-width: 100%;
+  margin: 0;
+  background: rgb(240, 240, 240);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+body {
+  font-family: "NanumSquare, sans-serif";
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
